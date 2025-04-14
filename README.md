@@ -8,7 +8,7 @@ This repository provides implementations for **ABS-Q** (Analysis-by-Synthesis fo
 
 - `ABS3.ipynb`: Main Jupyter notebook for the ABS-Q model, including training, evaluation, and visualization.
 - `Hammer_reconstruction.ipynb`: Code for reweighting noisy distributions using the HAMMER protocol.
-- `QBEEP_reconstruction.ipynb`: Implementation of the QBEEP method using Poisson-based binning and Bayesian state graph modeling.
+- `QBeep_reconstruction.ipynb`: Implementation of the QBEEP method using Poisson-based binning and Bayesian state graph modeling.
 ---
 
 ## 🧠 Project Summary
